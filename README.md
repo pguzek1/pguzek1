@@ -3,7 +3,7 @@
 <h3 align="left">Welcome to my GitHub profile!</h3>
 
 - 👨‍💻 My TUL projects are available here
-   <a href="https://www.linkedin.com/in/pawel-guzek/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/></a>
+   <a href="https://github.com/TULbaghia" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/></a>
 
 - 📄 Get to know about my experience 
   <a href="https://www.linkedin.com/in/pawel-guzek/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
